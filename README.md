@@ -12,3 +12,6 @@ Then copy the codes:embed_doc.py and query_bot.py
 Note:-Since we are using llama2, we will need to install git, llama2 model(huggingface), and visual C++ Build tools.
 The bot performs with moderate accuracy.
 It has been tested on 3 pdfs.
+
+
+Note:- you can use other model (multi-qa-MiniLM-L6-cos-v1)
